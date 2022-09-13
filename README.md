@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<p align="left"> <img src="https://preview.redd.it/vw6c9iwr6rk51.jpg?auto=webp&s=a9ca2ca97cb0b1a386d3ce5cc3ba6a4862761b1c" width="5%" height="25%"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/100173308/189874377-41a0c87c-0319-4bfd-aae5-a06f10173a90.png" width="20%" height="25%"> </p>
 <br>
 <!---
 LobatoLobato/LobatoLobato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
