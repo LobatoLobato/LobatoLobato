@@ -1,11 +1,4 @@
-<h1 align="center"> Hi, I’m Felipe!</h1>
-<br>
-
-- 🎓 I'm currently studying Computer Engineering at Inatel.
-- 👀 I’m interested in embedded systems and back-end programming
-- 💞️ I’m looking to collaborate on anything really
-- 📫 My contact email is: felipelobato.rj@gmail.com
-
+<h1 align="center"> a a a a  a a a </h1>
 <h2 align="center"> Languages: </h2>
 <br>
 <p align="center" float="left">
@@ -21,7 +14,4 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/100173308/189874377-41a0c87c-0319-4bfd-aae5-a06f10173a90.png" width="20%" height="25%"> </p>
 <br>
-<!---
-LobatoLobato/LobatoLobato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
