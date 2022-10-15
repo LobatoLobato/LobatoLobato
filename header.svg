@@ -46,6 +46,8 @@
           text-decoration: none;
         }
 				.container {
+          position: absolute;
+          left: 0;
           display: flex;
           flex-direction: column;
           font-family: 'JetBrains Mono', monospace;
