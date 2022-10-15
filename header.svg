@@ -52,7 +52,7 @@
           flex-direction: column;
           font-family: 'JetBrains Mono', monospace;
         gap: 24px;
-        width: 80%;
+        width: 800px;
           height: 100%;
         border: 1px solid white;
         background: linear-gradient(180deg,  #490e9d13 20%, #cc2c4d52 50%, #6c2c4d82);
