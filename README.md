@@ -2,7 +2,7 @@
       
 <!-- <img src="./header.svg" alt="" width="100%"/> -->
 
-<img src="https://readme-manager.vercel.app/api/readme?username=lobatolobato&show_icons=true&locale=en&layout=compact&theme=monokai&bg_color=DD272700&repo=alura-geek&repo=AVRIO&repo=Electron-Screen-Recorder&repo=C-Cpp-CompilerRunner" alt="lobatolobato" width="100%" />
+<img src="https://readme-manager.vercel.app/api/readme?username=lobatolobato&show_icons=true&locale=en&layout=compact&theme=monokai&bg_color=DD272700&repo=C-Cpp-CompilerRunner&repo=AVRIO&repo=alura-geek&repo=Electron-Screen-Recorder" alt="lobatolobato" width="100%" />
 
 
 <!--
