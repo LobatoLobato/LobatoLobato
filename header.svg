@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="viewBox"><foreignObject class="xhtmlContainer" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="scopescopescopescope">
+      <style>
+  :root {
+    --gsr-toplang0-color: #533;
+    --gsr-toplang0-percentage: 22.22%;
+    --gsr-toplang1-color: #383;
+    --gsr-toplang1-percentage: 20%;
+    --gsr-toplang2-color: #413;
+    --gsr-toplang2-percentage: 17.78%;
+    --gsr-toplang3-color: #034;
+    --gsr-toplang3-percentage: 15.56%;
+    --gsr-toplang4-color: #336;
+    --gsr-toplang4-percentage: 13.33%;
+    --gsr-toplang5-color: #026;
+    --gsr-toplang5-percentage: 11.11%;
+    --gsr-repo0-langcolor: #701;
+    --gsr-repo1-langcolor: #857;
+    --gsr-repo2-langcolor: #143;
+  }
+</style>
+
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+  @keyframes scopescopescopescopeAnimationName {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  .scopescopescopescope .scopescopescopescopecontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(270deg, #27a081, #a07527, #a02727);
+    background-size: 600% 600%;
+    animation: scopescopescopescopeAnimationName 2s ease infinite;
+  }
+  .scopescopescopescope .scopescopescopescopecontainer p {
+    background: #00000020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+  .scopescopescopescope a {
+    height: 20px;
+  }
+  .scopescopescopescope a img {
+    height: 100%;
+  }
+  .scopescopescopescope .scopescopescopescopestats {
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    background: #00000040;
+    border: 3px solid black;
+    border-radius: 8px;
+    gap: 4px;
+  }
+  .scopescopescopescope .scopescopescopescopestats p {
+    all: unset;
+  }
+  .scopescopescopescope .scopescopescopescopestats div {
+    display: flex;
+    gap: 4px;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    width: fit-content;
+    margin: auto;
+    justify-content: space-between;
+    padding: 16px;
+    background: #00000040;
+    border: 3px solid black;
+    border-radius: 8px;
+    gap: 4px;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks p {
+    all: unset;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks span {
+    display: flex;
+    gap: 4px;
+  }
+  .scopescopescopescope
+    .scopescopescopescopestreaks
+    .scopescopescopescopesubtitle {
+    font-size: 18px;
+    color: orange;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks .scopescopescopescopecount {
+    color: yellow;
+  }
+  .scopescopescopescope .scopescopescopescopestreaks .scopescopescopescopedate {
+    font-size: 16px;
+  }
+  .scopescopescopescope .scopescopescopescoperepositories {
+    display: flex;
+  }
+  .scopescopescopescope .scopescopescopescoperepoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    width: fit-content;
+    margin: auto;
+    padding: 16px;
+    background: #00000040;
+    border: 3px solid black;
+    border-radius: 8px;
+    gap: 4px;
+  }
+  .scopescopescopescope .scopescopescopescoperepoContainer p {
+    all: unset;
+  }
+  .scopescopescopescope
+    .scopescopescopescoperepoContainer
+    .scopescopescopescopereponame {
+    color: yellow;
+  }
+  .scopescopescopescope
+    .scopescopescopescoperepoContainer
+    .scopescopescopescopecounters {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    height: 20px;
+  }
+  .scopescopescopescope
+    .scopescopescopescoperepoContainer
+    .scopescopescopescopecounters
+    img {
+    width: 20px;
+    height: 20px;
+  }
+  .scopescopescopescope
+    .scopescopescopescoperepoContainer
+    .scopescopescopescopecounters
+    p {
+    height: 100%;
+    padding-bottom: 5px;
+  }
+  .scopescopescopescope .scopescopescopescopetopLangs {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background: #00000040;
+    border: 3px solid black;
+    border-radius: 8px;
+    width: fit-content;
+    margin: auto;
+    gap: 8px;
+  }
+  .scopescopescopescope
+    .scopescopescopescopetopLangs
+    .scopescopescopescopelangbarall {
+    display: flex;
+    overflow: hidden;
+    height: 8px;
+    background: white;
+    width: 100%;
+    border-radius: 4px;
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion0 {
+    background: var(--gsr-toplang0-color);
+    height: 100%;
+    width: var(--gsr-toplang0-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion1 {
+    background: var(--gsr-toplang1-color);
+    height: 100%;
+    width: var(--gsr-toplang1-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion2 {
+    background: var(--gsr-toplang2-color);
+    height: 100%;
+    width: var(--gsr-toplang2-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion3 {
+    background: var(--gsr-toplang3-color);
+    height: 100%;
+    width: var(--gsr-toplang3-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion4 {
+    background: var(--gsr-toplang4-color);
+    height: 100%;
+    width: var(--gsr-toplang4-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangbarportion5 {
+    background: var(--gsr-toplang5-color);
+    height: 100%;
+    width: var(--gsr-toplang5-percentage);
+  }
+  .scopescopescopescope .scopescopescopescopelangsContainer {
+    display: grid;
+    grid-template-columns: 6fr 6fr 6fr;
+    justify-content: space-between;
+    align-items: start;
+    gap: 4px;
+  }
+  .scopescopescopescope .scopescopescopescopelangContainer p {
+    background: transparent;
+  }
+  .scopescopescopescope
+    .scopescopescopescopelangContainer
+    .scopescopescopescopename {
+    background: #ffffff80;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .scopescopescopescope
+    .scopescopescopescopelangContainer
+    .scopescopescopescopepercentage {
+    font-size: 16px;
+  }
+  .scopescopescopescope
+    .scopescopescopescopelangContainer
+    .scopescopescopescopelangbar {
+    overflow: hidden;
+    height: 8px;
+    background: white;
+    border-radius: 4px;
+  }
+</style>
+<div class="scopescopescopescopecontainer">
+  <p>Example Code</p>
+  <p>Hello World</p>
+  <div class="scopescopescopescopestreaks">
+    <div>
+      <p class="scopescopescopescopesubtitle">Total Contributions:</p>
+      <div class="scopescopescopescopecount">0</div>
+      <span>
+        <div class="scopescopescopescopedate">Date</div>
+        <p class="scopescopescopescopedate">-</p>
+        <p class="scopescopescopescopedate">Present</p>
+      </span>
+    </div>
+    <div>
+      <p class="scopescopescopescopesubtitle">Longest Streak:</p>
+      <div class="scopescopescopescopecount">0</div>
+      <span>
+        <div class="scopescopescopescopedate">Date</div>
+        <p class="scopescopescopescopedate">-</p>
+        <div class="scopescopescopescopedate">Date</div>
+      </span>
+    </div>
+    <div>
+      <p class="scopescopescopescopesubtitle">Current Streak:</p>
+      <div class="scopescopescopescopecount">0</div>
+      <span>
+        <div class="scopescopescopescopedate">Date</div>
+        <p class="scopescopescopescopedate">-</p>
+        <div class="scopescopescopescopedate">Date</div>
+      </span>
+    </div>
+  </div>
+  <div>
+    <div class="scopescopescopescopestats">
+      Stats:
+      <div>
+        <p>Stars:</p>
+        <div>90</div>
+      </div>
+      <div>
+        <p>Commits:</p>
+        <div>3</div>
+      </div>
+      <div>
+        <p>Issues:</p>
+        <div>0</div>
+      </div>
+      <div>
+        <p>PRs:</p>
+        <div>0</div>
+      </div>
+      <div>
+        <p>Contributed to:</p>
+        <div>3</div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="scopescopescopescopetopLangs">
+      <h2>Most Used Languages:</h2>
+      <div class="scopescopescopescopelangbarall">
+        <div class="scopescopescopescopelangbarportion0"></div>
+        <div class="scopescopescopescopelangbarportion1"></div>
+        <div class="scopescopescopescopelangbarportion2"></div>
+        <div class="scopescopescopescopelangbarportion3"></div>
+        <div class="scopescopescopescopelangbarportion4"></div>
+        <div class="scopescopescopescopelangbarportion5"></div>
+      </div>
+      <div class="scopescopescopescopelangsContainer">
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang0</div>
+          <div class="scopescopescopescopepercentage">22.22</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion0"></div>
+          </div>
+        </div>
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang1</div>
+          <div class="scopescopescopescopepercentage">20.00</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion1"></div>
+          </div>
+        </div>
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang2</div>
+          <div class="scopescopescopescopepercentage">17.78</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion2"></div>
+          </div>
+        </div>
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang3</div>
+          <div class="scopescopescopescopepercentage">15.56</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion3"></div>
+          </div>
+        </div>
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang4</div>
+          <div class="scopescopescopescopepercentage">13.33</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion4"></div>
+          </div>
+        </div>
+        <div class="scopescopescopescopelangContainer">
+          <div class="scopescopescopescopename">Lang5</div>
+          <div class="scopescopescopescopepercentage">11.11</div>
+          <div class="scopescopescopescopelangbar">
+            <div class="scopescopescopescopelangbarportion5"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <h2>Repositories:</h2>
+    <br>
+    <div class="scopescopescopescoperepositories">
+      <div class="scopescopescopescoperepoContainer">
+        <div class="scopescopescopescopereponame">owner/repo0</div>
+        <div>description</div>
+        <div>LangName</div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FA_star.svg/1024px-FA_star.svg.png">
+          <div>18</div>
+        </div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://user-images.githubusercontent.com/17777237/54873012-40fa5b00-4dd6-11e9-98e0-cc436426c720.png">
+          <div>20</div>
+        </div>
+      </div>
+      <div class="scopescopescopescoperepoContainer">
+        <div class="scopescopescopescopereponame">repo1</div>
+        <div>description</div>
+        <div>LangName</div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FA_star.svg/1024px-FA_star.svg.png">
+          <div>1</div>
+        </div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://user-images.githubusercontent.com/17777237/54873012-40fa5b00-4dd6-11e9-98e0-cc436426c720.png">
+          <div>10</div>
+        </div>
+      </div>
+      <div class="scopescopescopescoperepoContainer">
+        <div class="scopescopescopescopereponame">owner/repo2</div>
+        <div>description</div>
+        <div>LangName</div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FA_star.svg/1024px-FA_star.svg.png">
+          <div>41</div>
+        </div>
+        <div class="scopescopescopescopecounters">
+          <img src="https://user-images.githubusercontent.com/17777237/54873012-40fa5b00-4dd6-11e9-98e0-cc436426c720.png">
+          <div>30</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <p>
+    More info on:
+    <a href="https://github.com/LobatoLobato/github-styledreadme-creator">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+    </a>
+  </p>
+</div>
+
+    </div></foreignObject></svg>
