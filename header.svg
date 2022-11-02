@@ -1,28 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@LobatoLobato 
-sindresorhus
-/
-css-in-readme-like-wat
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Security
-Insights
-css-in-readme-like-wat/header.svg 
-Newer           Older
-Ignore revisions
-You can now hide commits e.g. from automated formatters. Learn more.
- 100644  90 lines (85 sloc)  1.85 KB
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -108,17 +83,3 @@ You can now hide commits e.g. from automated formatters. Learn more.
 		</div>
 	</foreignObject>
 </svg>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
