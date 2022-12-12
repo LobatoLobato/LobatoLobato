@@ -1,5 +1,5 @@
 <picture>
-  <source media="(min-width:800px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=6c6f6261746f6c6f6261746f&height=1560" width="100%" >
+  <source media="(min-width:800px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=6c6f6261746f6c6f6261746f&height=1500" width="100%" >
   <source media="(min-width:560px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=6c6f6261746f6c6f6261746f&height=1610" width="100%" >
   <img src="https://github-styledreadme-creator.vercel.app/api?token=6c6f6261746f6c6f6261746f&height=1850" width="100%" >
 </picture>
