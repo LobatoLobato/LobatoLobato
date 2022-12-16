@@ -1,7 +1,7 @@
 <picture>
-  <source media="(min-width:800px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=100173308a78391cd8799f97&height=1450" width="100%" >
+  <source media="(min-width:800px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=100173308a78391cd8799f97&height=1449" width="100%" >
   <source media="(min-width:560px)" srcset="https://github-styledreadme-creator.vercel.app/api?token=100173308a78391cd8799f97&height=1550" width="100%" >
-  <img src="https://github-styledreadme-creator.vercel.app/api?token=100173308a78391cd8799f97&height=1750" width="100%" alt="Please reload the page if this image doesn't load ">
+  <img src="https://github-styledreadme-creator.vercel.app/api?token=100173308a78391cd8799f97&height=1748" width="100%" alt="Please reload the page if this image doesn't load ">
 </picture>
 
 
